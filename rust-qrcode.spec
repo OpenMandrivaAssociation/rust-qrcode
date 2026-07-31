@@ -8,8 +8,8 @@
 %global crate qrcode
 
 Name:           rust-%{crate}
-Version:        0.11.2
-Release:        2%{?dist}
+Version:        0.14.1
+Release:        1%{?dist}
 Summary:        QR code encoder in Rust
 
 # Upstream license specification: MIT OR Apache-2.0
